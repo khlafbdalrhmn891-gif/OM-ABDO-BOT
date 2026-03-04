@@ -1,0 +1,17 @@
+{
+  "name": "om-abdo-bot",
+  "version": "1.0.0",
+  "description": "بوت واتساب - متجر أم عبدو",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "whatsapp-web.js": "^1.23.0",
+    "qrcode-terminal": "^0.12.0",
+    "mongoose": "^8.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
